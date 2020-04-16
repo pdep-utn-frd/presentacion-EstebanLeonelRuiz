@@ -1,6 +1,5 @@
-# Esteban Ruiz #  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-"GitHubLogo"
+# Esteban Ruiz #  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 ![Error loading Image.jpg](https://media-exp1.licdn.com/dms/image/C4E03AQFR2-0nuCL3LA/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=0nK8dTQFGSO639DkERvRLOKAQ8NJqcdlJZ7J5b-ondM)
 ### Estudiante de Ingeniería en Sistemas de Información ###
