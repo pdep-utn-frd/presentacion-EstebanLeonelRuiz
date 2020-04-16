@@ -1,4 +1,4 @@
-# Esteban Ruiz   ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+# Esteban Ruiz   ![alt text](https://external.faep10-1.fna.fbcdn.net/safe_image.php?d=AQD3S74rdhbeU5wh&w=160&h=160&url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F17788186%3Fs%3D400%26v%3D4&cfs=1&upscale=1&fallback=news_d_placeholder_publisher_square&_nc_hash=AQDhsGIojd-4N_wo "Logo")
 
 
 ![Error loading Image.jpg](https://media-exp1.licdn.com/dms/image/C4E03AQFR2-0nuCL3LA/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=0nK8dTQFGSO639DkERvRLOKAQ8NJqcdlJZ7J5b-ondM)
